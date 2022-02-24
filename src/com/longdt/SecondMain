@@ -1,0 +1,8 @@
+package  com.longdt;
+
+public class SecondMain {
+
+    public static void main (String[] args) {
+        System.out.println("Second Main 9999");
+    }
+}
