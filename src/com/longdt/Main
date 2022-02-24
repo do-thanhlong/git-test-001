@@ -4,7 +4,7 @@ public class Main {
 
     public static void main (String[] args) {
         System.out.println("hello,git");
-        System.out.println(" test change 9999");
+        System.out.println(" test for Mergeing New Branch 9999");
         
         System.out.println(" add line for merging 888");
         System.out.println(" add for test delete 777");
